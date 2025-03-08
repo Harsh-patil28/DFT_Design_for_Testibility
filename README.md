@@ -9,3 +9,6 @@ This repository documents the Design for Test (DFT) Flow that I am currently exp
 - Mentor Grpahics Tessent installed and licensed
 - Valid library files (.lib, .lef, .mdt) in project directories
 - UNIX/Linux environment
+
+# Support
+For issues contact: [Harsh A Patil] harshpatilhp28@gmail.com <br>
