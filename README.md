@@ -1,3 +1,3 @@
 # DFT_Internship
 
-This repository contains DFT (Design for Test) Flow Im going through in Internship.
+This repository documents the Design for Test (DFT) Flow that I am currently exploring during my internship.
