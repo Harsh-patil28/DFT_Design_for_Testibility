@@ -11,4 +11,4 @@ This repository documents the Design for Test (DFT) Flow that I am currently exp
 - UNIX/Linux environment
 
 # Support
-For issues contact: [Harsh A Patil] harshpatilhp28@gmail.com <br>
+For issues contact: <br>Harsh A Patil <br>harshpatilhp28@gmail.com <br>
