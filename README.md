@@ -32,7 +32,7 @@ This repository documents the Design for Test (DFT) Flow that I am currently exp
 ## **Guides & Documentation**  
 📖 To learn how to use **Cadence Genus** in the DFT flow, [click here](your_link_here).  
 📖 For **Siemens Tessent**, [click here](your_link_here).  
-📖 To understand **Cadence Temnpus**, [click here](your_link_here).  
+📖 For **Cadence Tempus**, [click here](your_link_here).  
 
 
 ## Support
