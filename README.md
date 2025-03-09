@@ -10,5 +10,30 @@ This repository documents the Design for Test (DFT) Flow that I am currently exp
 - Valid library files (.lib, .lef, .mdt) in project directories
 - UNIX/Linux environment
 
-# Support
+## **Repository Structure** 
+
+### **1. Cadence Genus (Synthesis)**  
+📂 [`genus/`](your_link_here) – Contains synthesis-related files.  
+- 📂 [`setup/`](your_link_here) – Setup scripts and configuration files.  
+- 📂 [`scripts/`](your_link_here) – TCL scripts for automation.  
+- 📂 [`logs/`](your_link_here) – Log files and synthesis reports.  
+
+### **2. Cadence Modus (DFT Insertion & ATPG)**  
+📂 [`modus/`](your_link_here) – Contains DFT insertion and ATPG-related files.  
+- 📂 [`setup/`](your_link_here) – Initialization and configuration files.  
+- 📂 [`patterns/`](your_link_here) – Generated test patterns.  
+- 📂 [`reports/`](your_link_here) – DFT coverage reports.  
+
+### **3. Simulation (Verification of DFT Flow)**  
+📂 [`simulation/`](your_link_here) – Contains files related to functional and scan verification.  
+- 📂 [`testbenches/`](your_link_here) – Testbench files for verification.  
+- 📂 [`waveforms/`](your_link_here) – Waveform results for debugging.  
+
+## **Guides & Documentation**  
+📖 To learn how to use **Cadence Genus** in the DFT flow, [click here](your_link_here).  
+📖 For **Cadence Modus ATPG**, [click here](your_link_here).  
+📖 To understand **DFT simulation flow**, [click here](your_link_here).  
+
+
+## Support
 For issues contact: <br>Harsh A Patil <br>harshpatilhp28@gmail.com <br>
