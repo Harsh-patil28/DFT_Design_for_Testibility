@@ -3,11 +3,12 @@
 This repository provides a structured guide for performing logic synthesis using **Cadence Genus**. It includes an explanation of the synthesis flow, best practices, and file requirements to help users optimize their RTL designs effectively.  
 
 ## Repository Structure  
+```
 /Cadence-Genus-Synthesis
 │── /Guide # Documentation and explanations
 │── /Scripts # Synthesis scriptss
 │── README.md # Project overview
-
+```
 ## Features  
 - Overview of **Cadence Genus** synthesis  
 - Input file requirements and setup  
