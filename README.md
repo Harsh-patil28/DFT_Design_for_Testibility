@@ -10,6 +10,11 @@ This repository documents the Design for Test (DFT) Flow that I am currently exp
 - Valid library files (.lib, .lef, .mdt) in project directories
 - UNIX/Linux environment
 
+ ## Block Diagram
+<img src="https://github.com/user-attachments/assets/025ad52c-2428-41a5-8f93-29f2b1eb589f" height="400">
+
+
+
 ## **Repository Structure** 
 
 🔹 **[Cadence Genus (Synthesis)](https://github.com/Harsh-patil28/DFT_Internship/tree/main/Cadence_Genus)** – Logic synthesis and netlist generation.  
