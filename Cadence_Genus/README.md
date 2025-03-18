@@ -20,6 +20,6 @@ This repository provides a structured guide for performing logic synthesis using
 Refer to the **Guide** folder for step-by-step instructions. Ensure all necessary input files, such as `.lib`, `.lef`, `.v`, and `.sdc`, are properly set before running the synthesis script from the **Scripts** folder.  
 
 ## Contact  
-_For queries, reach out to **Harsh A. Patil** at harshpatilhp28@gmail.com 
+For queries, reach out to **Harsh A. Patil** at harshpatilhp28@gmail.com 
 
 
