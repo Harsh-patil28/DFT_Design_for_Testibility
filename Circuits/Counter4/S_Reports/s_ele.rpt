@@ -1,0 +1,7 @@
+======================================================================================
+name                  type       length  si_so_clocks  state   is_non_scannable_reason
+--------------------  ---------  ------  ------------  ------  -----------------------
+/\counter_up_reg[3]   leaf_cell  1       +clk          usable  --                     
+/\counter_up_reg[2]   leaf_cell  1       +clk          usable  --                     
+/\counter_up_reg[1]   leaf_cell  1       +clk          usable  --                     
+/\counter_up_reg[0]   leaf_cell  1       +clk          usable  --                     
