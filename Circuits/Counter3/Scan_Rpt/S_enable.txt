@@ -1,0 +1,7 @@
+Scan mode 'int_mode' scan enables:
+---------------------------------------------------
+Primary Input  Internal Connection Node  Scan Chain
+---------------------------------------------------
+/scan_en       --                        chain     
+---------------------------------------------------
+

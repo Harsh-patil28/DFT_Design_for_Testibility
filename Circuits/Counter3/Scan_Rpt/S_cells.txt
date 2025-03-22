@@ -1,0 +1,10 @@
+Scan mode 'int_mode' scan cells:
+--------------------------------------------------------------------------------------------
+CellNo  ChainName  GroupName  Pathname               CellName  ScanOut  Clock  ClockPolarity
+--------------------------------------------------------------------------------------------
+-       chain      dummy      /[lockup-after-chain]  [LAT]              clk    (-)          
+0       chain      dummy      /counter_reg[0]        DFFR_X2   Q        clk    (+)          
+1       chain      dummy      /counter_reg[1]        DFFR_X2   Q        clk    (+)          
+2       chain      dummy      /counter_reg[2]        DFFR_X1   Q        clk    (+)          
+--------------------------------------------------------------------------------------------
+
