@@ -18,7 +18,7 @@ This repository documents the Design for Test (DFT) Flow that I am currently exp
 ## **Repository Structure** 
 
 🔹 **[Cadence Genus (Synthesis)](https://github.com/Harsh-patil28/DFT_Internship/tree/main/Cadence_Genus)** – Logic synthesis and netlist generation.  
-🔹 **[Siemens Tessent (DFT & ATPG)](your_tessent_repo_link)** – Scan chain insertion and ATPG pattern generation, Memory Built in Self Test.  
+🔹 **[Siemens Tessent (DFT & ATPG)](your_tessent_repo_link)** – Scan chain insertion, ATPG pattern generation, and Memory Built in Self Test.  
 🔹 **[Cadence Tempus (Static Timing Analysis)](your_tempus_repo_link)** – Timing verification and analysis.  
 
 ## **📖 References & Additional Resources**  
