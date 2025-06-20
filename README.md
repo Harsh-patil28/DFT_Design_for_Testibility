@@ -11,7 +11,8 @@ This repository documents the Design for Test (DFT) Flow that I am currently exp
 - UNIX/Linux environment
 
  ## Block Diagram
-<img src="https://github.com/user-attachments/assets/025ad52c-2428-41a5-8f93-29f2b1eb589f" height="400">
+<img src="https://github.com/user-attachments/assets/4823bd0b-0cf2-4a25-a1a2-c04600dbcc0b" height="400">
+
 
 
 
