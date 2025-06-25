@@ -17,7 +17,11 @@ set CELL_LIB_PATH "path/to/cell_library.mdt"
 
 # Path to save reports
 set REPORT_DIR "dft_reports"
-file mkdir $REPORT_DIR  ;# Create report directory if it doesn't exist
+file mkdir $REPORT_DIR  ;          # Create report directory if it doesn't exist
+
+# Path to save ATPG-related files
+set ATPG_DIR "${REPORT_DIR}/ATPG"
+file mkdir $ATPG_DIR  ;              # Create ATPG directory if it doesn't exist
 
 # Path to save the final output design
 set OUTPUT_NETLIST_PATH "path/to/output_netlist.v"
@@ -72,6 +76,12 @@ analyze_scan_chains
 # Insert test logic
 insert_test_logic -write_in_tsdb on
 
+# Write ATPG setup files
+write_atpg_setup -output "${ATPG_DIR}/atpg_setup"
+
+# Write SCANDEF file for scan chain order
+write_scan_order -output "${ATPG_DIR}/scan_chain_order.def"
+
 # Generate reports
 report_scan_elements > "${REPORT_DIR}/scan_elements_report.txt"
 report_scan_chains > "${REPORT_DIR}/scan_chains_report.txt"
@@ -88,3 +98,4 @@ set_system_mode setup
 open_visualizer
 
 puts "DFT scan insertion completed successfully! Reports saved in ${REPORT_DIR}."
+puts "ATPG files saved in ${ATPG_DIR}."   
