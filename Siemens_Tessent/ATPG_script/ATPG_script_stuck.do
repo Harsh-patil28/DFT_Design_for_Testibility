@@ -16,6 +16,9 @@ dofile ATPG_set_verify_scan_modes.dofile
 ## ATPG Flow
 ##############################################################################
 
+# Set the type of fault 
+set_fault_type stuck
+
 # Add all detectable faults to the fault list
 add_faults -all
 
