@@ -10,7 +10,7 @@
 ##############################################################################
 
 # Run the setup dofile to configure scan environment
-dofile <setup_dofile_name>.dofile
+dofile  ATPG_set_verify_scan_modes.dofile
 
 ##############################################################################
 ## ATPG Flow
